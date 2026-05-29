@@ -26,6 +26,7 @@ No duplicate rows identified
 
 
 **Feature Engineering**
+
 *Two features were derived to support lifecycle-stage analysis:*
 
 *tenure_days* — days between signup and last active date
@@ -41,7 +42,7 @@ One-hot encoding for country and gender where no ordinal relationship exists
 
 Chi-square tests on categorical variables and t-tests on continuous variables were run before modelling to identify meaningful associations with churn. No feature returned a statistically significant result, with gender producing the lowest p-value (p = 0.05) — marginal at best.
 
-*Model Results* 
+**Model Results**
 
 Logistic Regression — Unbalanced Baseline
 
