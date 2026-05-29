@@ -16,6 +16,7 @@ StreamWorks_Churn_Report.docx — business insights report with full findings an
 
 
 **Data Cleaning**
+
 The dataset was largely well-formed on arrival. The main issues addressed were missing values across several columns:
 
 Categorical nulls filled with mode to preserve existing distribution
