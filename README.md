@@ -9,7 +9,9 @@ Dataset: 1,499 subscriber records with demographic, behavioural and subscription
 **Files**
 
 streamworks_user_data.csv — raw subscriber dataset
+
 StreamWorks_Churn_Analysis.ipynb — full Python notebook covering cleaning, feature engineering, statistical tests and modelling
+
 StreamWorks_Churn_Report.docx — business insights report with full findings and recommendations
 
 
